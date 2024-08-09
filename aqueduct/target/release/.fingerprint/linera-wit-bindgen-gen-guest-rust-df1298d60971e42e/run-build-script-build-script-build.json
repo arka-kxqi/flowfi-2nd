@@ -1,0 +1,1 @@
+{"rustc":7012926288929933815,"features":"","target":0,"profile":0,"path":0,"deps":[[13604458867784131059,"build_script_build",false,10633360277206361806]],"local":[{"RerunIfChanged":{"output":"release\\build\\linera-wit-bindgen-gen-guest-rust-df1298d60971e42e\\output","paths":["build.rs"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

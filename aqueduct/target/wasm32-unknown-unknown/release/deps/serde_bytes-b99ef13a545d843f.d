@@ -1,0 +1,11 @@
+D:\PROJECTS\blockchain\equalizer\aqueduct\target\wasm32-unknown-unknown\release\deps\serde_bytes-b99ef13a545d843f.rmeta: C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\lib.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytes.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\de.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\ser.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytebuf.rs
+
+D:\PROJECTS\blockchain\equalizer\aqueduct\target\wasm32-unknown-unknown\release\deps\libserde_bytes-b99ef13a545d843f.rlib: C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\lib.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytes.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\de.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\ser.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytebuf.rs
+
+D:\PROJECTS\blockchain\equalizer\aqueduct\target\wasm32-unknown-unknown\release\deps\serde_bytes-b99ef13a545d843f.d: C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\lib.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytes.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\de.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\ser.rs C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytebuf.rs
+
+C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\lib.rs:
+C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytes.rs:
+C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\de.rs:
+C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\ser.rs:
+C:\Users\toshi\.cargo\registry\src\index.crates.io-6f17d22bba15001f\serde_bytes-0.11.12\src\bytebuf.rs:

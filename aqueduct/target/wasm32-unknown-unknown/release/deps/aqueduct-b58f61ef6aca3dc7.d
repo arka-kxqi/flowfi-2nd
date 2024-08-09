@@ -1,0 +1,7 @@
+/mnt/d/PROJECTS/blockchain/equalizer/aqueduct/target/wasm32-unknown-unknown/release/deps/aqueduct-b58f61ef6aca3dc7.rmeta: src/lib.rs
+
+/mnt/d/PROJECTS/blockchain/equalizer/aqueduct/target/wasm32-unknown-unknown/release/deps/libaqueduct-b58f61ef6aca3dc7.rlib: src/lib.rs
+
+/mnt/d/PROJECTS/blockchain/equalizer/aqueduct/target/wasm32-unknown-unknown/release/deps/aqueduct-b58f61ef6aca3dc7.d: src/lib.rs
+
+src/lib.rs:

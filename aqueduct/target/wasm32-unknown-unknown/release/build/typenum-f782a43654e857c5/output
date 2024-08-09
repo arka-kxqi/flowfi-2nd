@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/d/PROJECTS/blockchain/equalizer/aqueduct/target/wasm32-unknown-unknown/release/build/typenum-f782a43654e857c5/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/d/PROJECTS/blockchain/equalizer/aqueduct/target/wasm32-unknown-unknown/release/build/typenum-f782a43654e857c5/out/op.rs
